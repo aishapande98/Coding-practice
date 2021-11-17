@@ -1,0 +1,14 @@
+var arr=['2','22','19','34','77','99','61'];
+var elem='98';
+var flag=0;
+var n=arr.length;
+for(let i=0;i<n;i++){ 
+   if(arr[i] === elem){
+     console.log("element found at index",i);
+     flag=1;
+     break;
+   }
+}
+if(flag === 0){
+   console.log("element not found");
+}
