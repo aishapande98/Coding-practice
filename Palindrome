@@ -1,6 +1,7 @@
 //Program to check if given number is Palindrome or  not
+========================================================
 
-//Method-1 using for loop
+##//Method-1 using for loop
 
 
 function Palindrome(string){
@@ -17,7 +18,7 @@ const string=prompt("Enter a string");
 Palindrome(string);
 
 
-/*//Method-2 using Javascript in-built methods*/
+##//Method-2 using Javascript in-built methods
 
 function Palindrome(string){
  const values=string.split();
