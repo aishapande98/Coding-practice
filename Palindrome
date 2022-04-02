@@ -1,7 +1,10 @@
 Program to check if given number is Palindrome or  not
 ========================================================
 
-##//Method-1 using for loop
+What is AJAX
+===================================
+
+## Method-1 using for loop
 
 
 function Palindrome(string){
